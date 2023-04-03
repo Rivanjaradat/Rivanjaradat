@@ -9,7 +9,7 @@ Skills: c / java / HTML / CSS
 - 📫 How to reach me: rivanr44@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rivanjaradat)  
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://www.pinterest.com/pin/1074319686084581308/)' alt='github' height='40'>](https://github.com/Rivanjaradat)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivanjaradat)](https://github.com/anuraghazra/github-readme-stats)
 
