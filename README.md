@@ -3,9 +3,9 @@
 ![Im in third year in Birzeit universty](https://i.pinimg.com/564x/2a/a1/23/2aa12353a73431dfb1d345f08d8e003d.jpg)
 
 
-Skills: c / java / HTML / CSS
+Skills: c /  / HTML / CSS
 
-- 🌱 I’m currently learning Ai & Robotics 
+- 🌱 I’m currently learning Frontend 
 - 📫 How to reach me: rivanr44@gmail.com 
 
 
