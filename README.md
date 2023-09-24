@@ -3,7 +3,7 @@ from Palestine. I am currently studying at Birzeit University, specializing in c
 
 Skills: c / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning Full stack 
 
 
