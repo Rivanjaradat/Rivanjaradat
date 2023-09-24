@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Rivan Jaradat
-#### Im in third year in Birzeit universty
-![Im in third year in Birzeit universty](https://i.pinimg.com/564x/2a/a1/23/2aa12353a73431dfb1d345f08d8e003d.jpg)
+### Hi there 👋, I am Rهvan from Palestine. I am currently studying at Birzeit University, specializing in computer engineering in the fourth year. I have begun the journey of learning Full Stack and will finish soon....
+(https://i.pinimg.com/564x/2a/a1/23/2aa12353a73431dfb1d345f08d8e003d.jpg)
 
 
 Skills: c /  / HTML / CSS
