@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Rivan
 from Palestine. I am currently studying at Birzeit University, specializing in computer engineering in the fourth year. I have begun the journey of learning Full Stack and will finish soon.
 
-Skills: c / HTML / CSS/js
+
 
 
 - 🌱 I’m currently learning Full stack 
