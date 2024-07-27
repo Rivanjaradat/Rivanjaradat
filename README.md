@@ -1,6 +1,4 @@
-.github/workflows
-snake.yml
-README.md
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rivan-jaradat-0a84b0235/" target="_blank">
@@ -57,5 +55,3 @@ README.md
 
 <img src="https://raw.githubusercontent.com/Rivanjaradat/Rivanjaradat/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
