@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - 🌱 I’m currently learning advanced machine learning techniques and exploring new web technologies.
 - 💬 Ask me about JavaScript, Python, React, Node.js, and data science.
-- 📫 How to reach me: [email@example.com](rivanr44@gmail.com)
+- 📫 How to reach me: [rivanr44@gmail.com](rivanr44@gmail.com)
 - ⚡ Fun fact: I love hiking and capturing nature through photography.
 
 ## Skills
