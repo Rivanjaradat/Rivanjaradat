@@ -36,11 +36,6 @@
 
 ---
 
-### 🐍 GitHub Snake Contribution Animation
-
-<img src="https://raw.githubusercontent.com/Rivanjaradat/Rivanjaradat/output/snake.svg" alt="Snake animation" />
-
----
 
 ### 📊 Profile Views
 
