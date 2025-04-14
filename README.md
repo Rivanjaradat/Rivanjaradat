@@ -1,8 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Rivan Jaradat</h1>
 
 <p align="center">
-  <b>Final-year Computer Engineering student | Full Stack Developer 💻</b><br/>
-  Passionate about building user-centric applications and solving real-world problems with clean code and smart systems.
+  <b>Final-year Computer Engineering student – AI Track 🤖</b><br/>
+  💡 Passionate about <b>Machine Learning</b> and <b>Computer Vision</b><br/>
+  🎓 Currently enrolled in the <b>Udacity Data Analyst Nanodegree</b><br/>
+
 </p>
 
 <br/>
