@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rivan Jaradat</h1>
 
 <p align="center">
-  <b>Final-year Computer Engineering student – AI Track 🤖</b><br/>
+  <b>Freash Graduate from Computer Engineering  – AI Track 🤖</b><br/>
   💡 Passionate about <b>Machine Learning</b>,  <b>Ai Agent</b>, <b>Computer Vision</b>, and <b>Full-Stack Development</b><br/>
   🖥️ Skilled in building full-stack applications using <b>React</b> & <b>.NET</b><br/>
   🎓Graduate from <b>Udacity Data Analyst Nanodegree</b><br/>
