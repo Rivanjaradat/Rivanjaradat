@@ -2,9 +2,9 @@
 
 <p align="center">
   <b>Final-year Computer Engineering student – AI Track 🤖</b><br/>
-  💡 Passionate about <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Full-Stack Development</b><br/>
+  💡 Passionate about <b>Machine Learning</b>,  <b>Ai Agent</b>, <b>Computer Vision</b>, and <b>Full-Stack Development</b><br/>
   🖥️ Skilled in building full-stack applications using <b>React</b> & <b>.NET</b><br/>
-  🎓 Currently enrolled in the <b>Udacity Data Analyst Nanodegree</b><br/>
+  🎓Graduate from <b>Udacity Data Analyst Nanodegree</b><br/>
 </p>
 
 <br/>
