@@ -45,9 +45,7 @@
   <img src="https://profile-counter.glitch.me/Rivanjaradat/count.svg?" />
 </div>
 
----
-### my CV
-https://drive.google.com/file/d/1QMYsKsk6MFf13deE-mbzTOWDycK3TtpT/view?usp=sharing
+
 
 ### 🌐 Connect with Me
 
