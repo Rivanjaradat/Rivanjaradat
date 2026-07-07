@@ -1,67 +1,60 @@
 <h1 align="center">Hi there 👋, I'm Rivan Jaradat</h1>
 
 <p align="center">
-  <b>Computer Engineer • AI Engineer • Entrepreneur</b><br/>
-  Building AI-powered products, SaaS platforms, and scalable software solutions.
+  <b>Fresh Graduate from Computer Engineering  – AI Track 🤖</b><br/>
+  💡 Passionate about <b>Machine Learning</b>,  <b>Ai Agent</b>, <b>Computer Vision</b>, and <b>Full-Stack Development</b><br/>
+  🖥️ Skilled in building full-stack applications using <b>React</b> & <b>.NET</b><br/>
+  🎓Graduate from <b>Udacity Data Analyst Nanodegree</b><br/>
 </p>
-
----
-
-## 🚀 Founder & Leadership
-
-### 🏢 RevoTech Digital Solutions
-Founder & Managing Director
-
-A technology company focused on:
-- Custom Software Development
-- Web & Mobile Applications
-- AI Solutions
-- Business Automation
-- Digital Transformation
-
-📍 Instagram:
-https://www.instagram.com/revotech.solutions
 
 <br/>
 
-### 🚗 Easy Rent
-Founder
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rivanjaradat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rivanjaradat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<br/>
 
-A SaaS platform helping car rental businesses manage:
-- Reservations
-- Fleet Operations
-- Contracts
-- Customers
-- Payments
-
-while enabling online vehicle booking through a unified marketplace.
-
-📍 Instagram:
-https://www.instagram.com/easyrent.ps
 
 ---
 
-## 💼 Professional Focus
+### 🛠️ Languages and Tools
 
-- Artificial Intelligence & AI Agents
-- SaaS Product Development
-- ASP.NET Core & React
-- System Architecture
-- Business Process Automation
-- Digital Product Strategy
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
 
-C# • ASP.NET Core • React • React Native • Python • SQL Server • Machine Learning • Computer Vision • REST APIs • Git
+### 📊 Profile Views
 
----
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rivanjaradat/count.svg?" />
+</div>
 
-## 🌐 Connect
 
-💼 LinkedIn:
-https://www.linkedin.com/in/rivan-jaradat-0a84b0235/
 
-📧 Email:
-rivanr44@gmail.com
+### 🌐 Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rivan-jaradat-0a84b0235/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <br/>
+
+📬 Email: rivanr44@gmail.com
+
+</div>
